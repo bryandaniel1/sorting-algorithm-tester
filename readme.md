@@ -36,7 +36,7 @@ On the randomly ordered file, quick sort performs much faster.
 </figure><br>
 <br>
 
-Merge sort performs more slowly on the fully randomized contents.
+Merge sort performs more slowly than quick sort on the fully randomized contents.
 
 <figure>
   <img src="img/merge_sort_on_random.png" alt="Merge Sort Random"/>
